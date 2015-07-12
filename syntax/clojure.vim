@@ -1,3 +1,8 @@
+" Vim syntax file
+" Language: Clojure
+" Maintainer: Micah Elliott
+" Filenames: *.clj
+
 " Jay Fields
 " https://github.com/jaycfields/unplugged-pack/blob/f7ba9f033cfed38f2c39da7855568c46c1a1874e/init.el#L105-L115
 " http://blog.jayfields.com/2013/06/coding-increase-your-reading-and.html
