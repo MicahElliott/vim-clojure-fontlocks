@@ -2,7 +2,7 @@
 
 A syntax file to make your code look more Greek (making it more concise).
 
-<img src="https://github.com/MicahElliott/vim-clojure-fontlocks/raw/master/images/still1.png" alt="Vim Clojure Fontlocks" title="Vim Clojure Fontlocks" align="right" />
+<img src="https://raw.githubusercontent.com/MicahElliott/vim-clojure-fontlocks/master/still1.png" alt="Vim Clojure Fontlocks" title="Vim Clojure Fontlocks" align="right" />
 
 Inspirations:
 * [Jay Fields](http://blog.jayfields.com/2013/06/coding-increase-your-reading-and.html)
