@@ -53,6 +53,9 @@ syn keyword clojureConcealApply     apply conceal   cchar=$
 syn keyword clojureConcealMap       map conceal   cchar=μ
 syn keyword clojureConcealReduce    reduce conceal   cchar=ρ  " same as rename
 syn keyword clojureConcealFilter    filter conceal   cchar=φ
+syn keyword clojureConcealPartition partition conceal   cchar=∥
+syn keyword clojureConcealFormat    format conceal   cchar=~
+syn keyword clojureConcealReplace   clojure.string/replace conceal   cchar=σ
 
 syn match clojureConcealParam    /%/ conceal   cchar=ⅰ
 syn match clojureConcealParam    /%2/ conceal   cchar=ⅱ
@@ -85,6 +88,8 @@ syn keyword clojureConcealDivision  / conceal   cchar=÷
 syn keyword clojureConcealBitXor    bit-xor conceal   cchar=⊕
 syn keyword clojureConcealFloor     floor conceal   cchar=⌊
 syn keyword clojureConcealCeil      ceil conceal   cchar=⌈
+syn keyword clojureConcealPow       Math/pow conceal   cchar=↑
+syn keyword clojureConcealPi        Math/PI conceal cchar=π
 
 " Sets
 syn keyword clojureConcealProject      project       conceal cchar=π
