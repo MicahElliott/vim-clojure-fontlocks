@@ -2,7 +2,7 @@
 
 A syntax file to make your code look more Greek (making it more concise).
 
-<img src="https://raw.githubusercontent.com/MicahElliott/vim-clojure-fontlocks/master/still2.png" alt="Vim Clojure Fontlocks" title="Vim Clojure Fontlocks" />
+<img src="https://raw.githubusercontent.com/MicahElliott/vim-clojure-fontlocks/master/still1.png" alt="Vim Clojure Fontlocks" title="Vim Clojure Fontlocks" />
 
 ## Installation
 Vundle, add to `~/.vimrc`: `Plugin 'MicahElliott/vim-clojure-fontlocks'`
